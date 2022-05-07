@@ -1,4 +1,4 @@
-package main
+package gildedrose
 
 type Item struct {
 	Name            string

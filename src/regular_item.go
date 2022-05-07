@@ -1,4 +1,8 @@
-package main
+package gildedrose
+
+import (
+	"github.com/vpanwar821/gilded-rose/common/utils"
+)
 
 type regularItem struct {
 	Item
