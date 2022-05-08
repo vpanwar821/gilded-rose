@@ -2,11 +2,18 @@ package consts
 
 const (
 	// Minimum Quality
-	minQuality   = 0
+	MinQuality int = 0
 
 	// Maximum Quality
-	maxQuality   = 50
-	
+	MaxQuality int = 50
+
 	// Fixed Quality
-	fixedQuality = 80
+	FixedQuality int = 80
+)
+
+const (
+	AgedBrie        string = "Aged Brie"
+	BackstagePasses string = "Backstage passes to a TAFKAL80ETC concert"
+	Sulfuras        string = "Sulfuras, Hand of Ragnaros"
+	Conjured        string = "Conjured Mana Cake"
 )
